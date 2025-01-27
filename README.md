@@ -1,3 +1,3 @@
-1. clone toolchains
+1. clone toolchain
 ```
-git clone https://github.com/HerokeTJ/toolchains.git
+git clone https://github.com/HerokeTJ/toolchain.git
